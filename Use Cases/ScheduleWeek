@@ -1,5 +1,21 @@
-Title: Schedule Week Meals
+Title: Schedule Week
 Scope: KitchenAid
 Level: User goal
+Trigger: User wants to schedule their week's meals
+Success guarantee: Week's Meals are planned.
+Minimal guarantee: Fully input meals will be saved.
 Main Success Scenario:
-1. User 
+1. User _logs in_
+2. User chooses day
+3. User _adds meal_
+4. User repeats steps 2-3 for each meal they want to plan
+
+Extensions:
+0a. Power loss
+  0a1. System saves at each meal input or deletion.
+1a. Unsuccessful login
+  1a1. User _creates account_
+  1a2. User _resets password/username_
+3a. Meal already planned
+  3a1. User edits planned meal
+  3a2. User adds new meal
