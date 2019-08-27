@@ -1,0 +1,25 @@
+1)Goals of program:
+- a)Schedule meals
+- b)Compile shopping list based on recipe used
+
+2)Secondary goals:
+- a)Compute general costs of recipe/meal/shopping list
+- b)Keep track of calorie counts
+- c)Track stats on meal spending, frequencies of meals/recipes used
+- d)Public sharing of recipes
+- e)Recipe manipulation
+  - 1) Rating
+  - 2) Changes to the recipe
+
+3)Tertiary goals:
+- a) Compile recommended meals based on calories/cost
+
+4)How:
+- 2b:
+    1) Record costs of each item
+      - use averages of input to compute estimate
+      - use highest price to compute worst-case
+      - use lowest price to compute best-case
+
+    2) Dynamic cost checker?
+      - Is there a reliable website to have the program reference?
