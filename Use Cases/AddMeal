@@ -1,0 +1,14 @@
+Title: Add Meal
+Scope: KitchenAid
+Level: Subfunction
+Trigger: User wants to add a meal
+Success guarantee: A meal is planned
+Minimal guarantee: No information loss
+Main Success Scenario:
+1) User enters the following information into the system:
+  - date/time of meal
+  - recipe(s) used
+
+2) System saves information
+
+Extensions:

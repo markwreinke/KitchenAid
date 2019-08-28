@@ -4,15 +4,18 @@
 
 2)Secondary goals:
 - a)Compute general costs of recipe/meal/shopping list
-- b)Keep track of calorie counts
-- c)Track stats on meal spending, frequencies of meals/recipes used
-- d)Public sharing of recipes
-- e)Recipe manipulation
+- b)Track stats on meal spending, frequencies of meals/recipes used
+- c)Recipe manipulation
   - 1) Rating
   - 2) Changes to the recipe
+- d) Keep track of pantry inventory
 
 3)Tertiary goals:
 - a) Compile recommended meals based on calories/cost
+- b) Keep track of calorie counts
+- c) Public sharing of recipes
+- d) Social media?
+- e) Coordinate between user and user's nutritionist? Doctor/healthcare system?
 
 4)How:
 - 2b:
